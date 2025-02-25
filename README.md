@@ -1,0 +1,2 @@
+# Medical-Data-Analysis-Feature-Selection-and-Classification
+This project analyzes Cancer and Diabetes datasets using Decision Tree, Random Forest, and Naïve Bayes. It applies PCA for feature selection, optimizes model performance, and compares results before and after dimensionality reduction. Evaluation metrics include accuracy, precision, recall, and F1-score to determine the best-performing algorithm. 🚀
