@@ -36,11 +36,11 @@ Each dataset is processed separately, and the results are compared independently
 - Compared results **before and after PCA** to assess the impact of dimensionality reduction.
 
 ## Results
-- The best-performing algorithm for the **Cancer dataset** was **(Insert Best Algorithm Here)**, achieving **(Insert Accuracy Here)** accuracy.
-- The best-performing algorithm for the **Diabetes dataset** was **(Insert Best Algorithm Here)**, achieving **(Insert Accuracy Here)** accuracy.
-- PCA helped improve/reduce model performance by **(Insert Impact Here)**.
+- The best-performing algorithm for the **Cancer dataset** was **Random Forest & Naive Bayes**, achieving **96%** accuracy.
+- The best-performing algorithm for the **Diabetes dataset** were **Random Forest**, achieving **99%** accuracy.
+- PCA helped reduces model performance by **almost 14%**.
 
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/medical-data-analysis.git
+   git clone https://github.com/humayun-raza-030/Medical-Data-Analysis-Feature-Selection-and-Classification.git
